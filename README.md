@@ -254,8 +254,8 @@ Done! The project will be running in your browser with automatic updates.
 ---
 
 ## 🔗 **Links Úteis**
-- [Machine Learning Erick Wendel - Projeto](https://github.com/ErickWendel/semana-javascript-expert07)
-- [Documentação da Xenova](https://xenova.ai/transformers)
+- [Machine Learning Erick Wendel - Projeto](https://github.com/ErickWendel/semana-javascript-expert07).
+- [Documentação da Xenova](https://xenova.ai/transformers).
 
 ## 🔗 **Useful Links**
 - [Machine Learning Erick Wendel - Project](https://github.com/ErickWendel/semana-javascript-expert07)
